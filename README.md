@@ -55,7 +55,7 @@ Replace `<value>`, `<true|false>`, and `<distance>` with appropriate values to t
 ### Learn More 📖
 For those interested in a deeper understanding of the Strategy Pattern and its implementation in this project, a video tutorial and an accompanying article are available:
 
-- Video Tutorial: Strategy Pattern in Java: Building a Delivery Management App
+- Video Tutorial: [Strategy Pattern in Java: Building a Delivery Management App](https://www.youtube.com/watch?v=Nos2VpE6Jj0)
 - Detailed Article: For an in-depth exploration of this project and the Strategy Pattern, check out our [comprehensive guide on building a delivery management app using the Strategy Pattern in Java](https://nemanjatanaskovic.com/strategy-pattern-in-java-building-a-delivery-management-app/).
 
 
