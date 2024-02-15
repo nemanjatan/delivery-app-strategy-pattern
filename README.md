@@ -63,4 +63,4 @@ For those interested in a deeper understanding of the Strategy Pattern and its i
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or improvements.
 
 ### License
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
+This project is open-sourced under the MIT License.
